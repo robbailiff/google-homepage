@@ -1,0 +1,153 @@
+html {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+header>div {
+    padding: 10px 20px;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+#app-icon {
+    height: 20px;
+    width: 20px;
+}
+
+#nav-top-right{
+    display: flex;
+    align-items: center;
+    
+}
+
+#nav-top-right button{
+    background-color: #4385f7;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    margin-left: 15px;
+}
+
+.top-nav, .top-nav:visited{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.top-nav:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+main {
+    margin-top: 5rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container img, div {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.container form {
+    border: 1px solid #e4e4e4;
+    border-radius: 25px;
+    width: 600px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form>svg {
+    height: 20px;
+    width: 20px;
+    color: #5f6368;
+}
+
+form>input {
+    color: black;
+    width: 500px;
+    height: 25px;
+    border: none;
+    margin: 0 20px;
+}
+
+.container form:hover {
+    box-shadow:  0 0 2px 2px #e4e4e4;
+    padding: 0 2px;
+}
+
+.search button {
+    background-color: #f2f2f2;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 18px;
+    font-size: 14px;
+    color: #5f6368;
+}
+
+.search button:hover {
+    box-shadow:  0 0 1px #5f6368;
+}
+
+footer {
+    background-color: #f2f2f2;
+    color: #5f6368;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+footer>div {
+    border-top: 1px solid #e4e4e4;
+    padding: 10px 20px;
+}
+
+footer nav {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #e4e4e4;
+    padding: 10px 20px;
+}
+
+nav div {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+div>a, div>img {
+    padding: 0 15px;
+}
+
+div a:first-child {
+    padding-left: 0;
+}
+
+.bottom-nav, .bottom-nav:visited{
+    color: #5f6368;
+    text-decoration: none;
+}
+
+.bottom-nav:hover {
+    color: #5f6368;
+    text-decoration: underline;
+}
