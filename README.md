@@ -4,7 +4,7 @@
 
 For this mini-project, the assignment was to build the google homepage from scratch using HTML & CSS. It does not involve any JavaScript so the search box doesn’t do anything when you submit it. The aim of the assignment is to get you to "start thinking about how elements get placed on the page and roughly how they get styled and aligned" according to the notes. 
 
-Check out my attempt: robbailiff.github.io/google-homepage
+Check out my attempt: https://robbailiff.github.io/google-homepage/
 
 The assignment is part of The Odin Project curriculum, which is free and open source and uses on freely available resources in each of the modules. The ethos of the project is learning by building things, with the added bonus of creating projects that can be showcased in a portfolio.
 
