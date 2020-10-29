@@ -1,4 +1,4 @@
-# Google Homepage Assisgnment
+# Google Homepage Assignment
 
 ## Introduction
 
@@ -10,4 +10,4 @@ The assignment is part of The Odin Project curriculum, which is free and open so
 
 ## Learning
 
-This was a great project to start with especially after doing the freecodecamp resposive web design section which does not reinforce the learning. I found the basic layout and styling very easy but I had to look up flexbox to remind myself how that worked. I think the biggest takeaway for me was learning about organising HTML and really thinking in advance about where classes would be best situated. I had a couple of occasions where I had to go back and change the HTML & CSS or add new classes because I had unexpected styling issues once I applied the CSS. It is fiddly and time consuming to do this depending on how the code has been organised so this should be avoided as much as possible. This assignment took much longer than I thought it would, mostly due to these issues, but also because I spent a while playing with and tweaking the styles and hover effects. This was definately the most fun part of the assignment for me, and overall this was a great learning experience.
+This was a great project to start with especially after doing the freecodecamp resposive web design section which was great but does not reinforce the learning. I found the basic layout and styling very easy but I had to look up flexbox to remind myself of how that worked. I think the biggest takeaway for me was learning about organising HTML and really thinking in advance about where classes would be best situated. I had a couple of occasions where I had to go back and change the HTML & CSS or add new classes because I had unexpected styling issues once I applied the CSS. It is fiddly and time consuming to do this depending on how the code has been organised so this should be avoided as much as possible. This assignment took much longer than I thought it would, mostly due to these issues, but also because I spent a while playing with and tweaking the styles and hover effects. This was definitely the most fun part of the assignment for me, and overall this was a great learning experience.
